@@ -1,15 +1,15 @@
 # hvlt gyazogif
-i want to make myself clear that all i did was separate the gyazoGIF from
-the rest of the gyazo, removed the unnecessary files, debugged and changed the
-recording time limit to infinite, and i also changed the gyazo icon color
+- separated gyazoGIF
+- removed the unnecessary files
+- limit recording
+- different icon
+
 you can debug for yourself that it has nothing malicious in it, or VT etc.
 
+##### How to use: execute GyazoGIF.exe
 
-###### How to use — Execute GyazoGIF.exe
+##### Issue: Recording for too much time may timeout when uploading
 
-###### Issues — Recording for too much time may timeout when uploading
+Tip for practical use: pin GyazoGIF.exe to the taskbar
 
-
-###### Tip for practical use — Pin GyazoGIF.exe to the taskbar
-
-##### Enjoy!
+Enjoy!
