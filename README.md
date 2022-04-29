@@ -1,4 +1,4 @@
-# xxcloudd's cracked gyazo
+# hvlt gyazogif
 i want to make myself clear that all i did was separate the gyazoGIF from
 the rest of the gyazo, removed the unnecessary files, debugged and changed the
 recording time limit to infinite, and i also changed the gyazo icon color
